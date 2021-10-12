@@ -1,2 +1,2 @@
-# python-msi
-Python MSI Pod Identity
+# code testing environment
+Building Docker containers and push to Docker Hub
